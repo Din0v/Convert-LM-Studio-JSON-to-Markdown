@@ -1,2 +1,2 @@
 # Convert-LM-Studio-JSON-to-Markdown
-Exactly what the title says 
+This script converts LM studio Chats from the JSON file to More readable Markdown 
